@@ -1,1 +1,1 @@
-# language-processing-pipeline
+# Language Processing Pipeline for Micro-Haskell
